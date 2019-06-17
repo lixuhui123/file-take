@@ -18,5 +18,23 @@
     <ClCompile Include="file.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="read _write.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="take_two_file.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="gen_zhong.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_file.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="_stat.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="源.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
